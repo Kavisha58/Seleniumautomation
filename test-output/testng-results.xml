@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-15T23:05:15 EDT" name="Default suite" finished-at="2022-07-15T23:05:27 EDT" duration-ms="11414">
+    <groups>
+    </groups>
+    <test started-at="2022-07-15T23:05:15 EDT" name="Default test" finished-at="2022-07-15T23:05:27 EDT" duration-ms="11414">
+      <class name="Testcaseorange.OrangeTest">
+        <test-method is-config="true" signature="Browserinitiate()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:15 EDT" name="Browserinitiate" finished-at="2022-07-15T23:05:17 EDT" duration-ms="2298" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserinitiate -->
+        <test-method signature="Invalid()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:17 EDT" name="Invalid" finished-at="2022-07-15T23:05:19 EDT" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalid -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:19 EDT" name="close" finished-at="2022-07-15T23:05:21 EDT" duration-ms="2192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="Browserinitiate()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:21 EDT" name="Browserinitiate" finished-at="2022-07-15T23:05:23 EDT" duration-ms="1557" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Browserinitiate -->
+        <test-method signature="valid()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:23 EDT" name="valid" finished-at="2022-07-15T23:05:24 EDT" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcaseorange.OrangeTest@58695725]" started-at="2022-07-15T23:05:24 EDT" name="close" finished-at="2022-07-15T23:05:27 EDT" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testcaseorange.OrangeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
